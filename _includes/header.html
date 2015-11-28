@@ -1,8 +1,10 @@
 <header class="site-header">
-
   <div class="wrapper">
-
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    {% if page.path == 'index.html' %}
+    <a class="site-title" href="http://tewks.io">&#8592; go back</a>
+    {% else %}
+    <a class="site-title" href="/blog/">&#8592; go back</a>
+    {% endif %}
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
@@ -21,7 +23,5 @@
         {% endfor %}
       </div>
     </nav>
-
   </div>
-
 </header>
