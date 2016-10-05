@@ -2,21 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</description>
-    <link>http://yourdomain.com/blog/</link>
-    <atom:link href="http://yourdomain.com/blog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 27 Nov 2015 21:44:12 -0800</pubDate>
-    <lastBuildDate>Fri, 27 Nov 2015 21:44:12 -0800</lastBuildDate>
+    <description></description>
+    <link>http://tewks.io/blog/</link>
+    <atom:link href="http://tewks.io/blog/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 04 Oct 2016 21:56:33 -0700</pubDate>
+    <lastBuildDate>Tue, 04 Oct 2016 21:56:33 -0700</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>Content Incoming</title>
         <description>&lt;p&gt;Welcome! I’ll be moving content over to this blog shortly.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 27 Nov 2015 13:19:00 -0800</pubDate>
-        <link>http://yourdomain.com/blog/2015/11/27/content-incoming.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/blog/2015/11/27/content-incoming.html</guid>
+        <pubDate>Tue, 27 Sep 2016 14:19:00 -0700</pubDate>
+        <link>http://tewks.io/blog/2016/09/27/content-incoming.html</link>
+        <guid isPermaLink="true">http://tewks.io/blog/2016/09/27/content-incoming.html</guid>
         
         
       </item>
